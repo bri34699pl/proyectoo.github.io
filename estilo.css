@@ -1,0 +1,50 @@
+body{
+	background: url(r.jpeg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color:#B9D8EB;
+	color: #456;
+	padding: 10px 0;
+	text-decoration: none;
+
+}
+nav ul{
+	list-style: none;
+	margin: 15px;
+	padding: 15px;
+}
+nav li{
+	display: aline;
+	margin: 5px 10px;
+	float: left;
+}
+nav a{
+	color: #000000;
+	text-decoration: none;
+	font-display: block;
+	font-family: monotype cursive;
+	padding: 500px 85px;
+	font-size: 22px;
+}
+.dropdown{
+	position: relative;
+
+}
+.dropdown-content{
+	display: none;
+	position: absolute;
+	background-color: rgb(0, 0, 0,o.49);
+	z-index: 1;
+
+}
+.dropdown:hover .dropdown-content{
+	display: block;
+	color: rgb(10, 10, 10);
+}
+
+

@@ -1,0 +1,19 @@
+body{
+	background: url(imagen.jpeg);
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+div{
+	
+
+	height: 300px;
+	width: 200px;
+	background-color:#758F9A;
+	margin-bottom: 20px;
+	border-radius: 22px;
+	text-align:justify ;
+	font-size: 20px;
+	font-family: initial;
+}
+
+
